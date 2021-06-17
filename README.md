@@ -1,3 +1,7 @@
+## #Descrip
+
+Projet en groupe from scratch de 3 jours, l'objectif était de créer un site de musique à la spotify en ReactJs. Projet réalisé pendant un rush d'un week-end. Il devait être le plus ressemblant possible en termes de fonctionnalités à spotify.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using
 the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
